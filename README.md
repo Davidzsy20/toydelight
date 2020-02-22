@@ -1,3 +1,3 @@
 # toydelight
 
-Toy problems s
+Toy problems
